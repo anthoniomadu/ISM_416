@@ -1,0 +1,74 @@
+entities,labels,Explaination
+Donald Trump,PERSON,"People, including fictional"
+January,DATE,Absolute or relative dates or periods
+U.S.,GPE,"Countries, cities, states"
+Donald Trump,PERSON,"People, including fictional"
+Jan. 6,DATE,Absolute or relative dates or periods
+U.S.,GPE,"Countries, cities, states"
+Oversight Board,ORG,"Companies, agencies, institutions, etc."
+Wednesday,DATE,Absolute or relative dates or periods
+Trump,PERSON,"People, including fictional"
+six months,DATE,Absolute or relative dates or periods
+Trump,PERSON,"People, including fictional"
+Trump,ORG,"Companies, agencies, institutions, etc."
+January,DATE,Absolute or relative dates or periods
+U.S.,GPE,"Countries, cities, states"
+Twitter,PRODUCT,"Objects, vehicles, foods, etc. (not services)"
+Trump,PERSON,"People, including fictional"
+Trump,PERSON,"People, including fictional"
+the Oversight Board,ORG,"Companies, agencies, institutions, etc."
+Trump,PERSON,"People, including fictional"
+"""The Board",ORG,"Companies, agencies, institutions, etc."
+Michael McConnell,PERSON,"People, including fictional"
+Stanford,ORG,"Companies, agencies, institutions, etc."
+NPR.Facebook,ORDINAL,"""first"", ""second"", etc."
+Global Affairs and,ORG,"Companies, agencies, institutions, etc."
+Nick Clegg,PERSON,"People, including fictional"
+Trump,ORG,"Companies, agencies, institutions, etc."
+Trump,ORG,"Companies, agencies, institutions, etc."
+Twitter and Google,WORK_OF_ART,"Titles of books, songs, etc."
+Country,ORG,"Companies, agencies, institutions, etc."
+35 million,CARDINAL,Numerals that do not fall under another type
+24 million,CARDINAL,Numerals that do not fall under another type
+years,DATE,Absolute or relative dates or periods
+Trump,PERSON,"People, including fictional"
+the Oversight Board's,ORG,"Companies, agencies, institutions, etc."
+the Oversight Board,ORG,"Companies, agencies, institutions, etc."
+Jim Steyer,PERSON,"People, including fictional"
+Common Sense,PERSON,"People, including fictional"
+Mark Zuckerberg,PERSON,"People, including fictional"
+Facebook,PERSON,"People, including fictional"
+Wednesday,DATE,Absolute or relative dates or periods
+the Oversight Board,ORG,"Companies, agencies, institutions, etc."
+McConnell,PERSON,"People, including fictional"
+Clegg,PERSON,"People, including fictional"
+Trump,PERSON,"People, including fictional"
+Jan. 6,DATE,Absolute or relative dates or periods
+Republican,NORP,Nationalities or religious or political groups
+Silicon Valley's,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+German,NORP,Nationalities or religious or political groups
+Angela Merkel,PERSON,"People, including fictional"
+Twitter,PERSON,"People, including fictional"
+Trump,PERSON,"People, including fictional"
+Zuckerberg,PERSON,"People, including fictional"
+January,DATE,Absolute or relative dates or periods
+Trump,ORG,"Companies, agencies, institutions, etc."
+the Oversight Board,ORG,"Companies, agencies, institutions, etc."
+several weeks later,DATE,Absolute or relative dates or periods
+"9,666",CARDINAL,Numerals that do not fall under another type
+Trump,ORG,"Companies, agencies, institutions, etc."
+Trump,PERSON,"People, including fictional"
+Republican,NORP,Nationalities or religious or political groups
+Trump,PERSON,"People, including fictional"
+Tuesday,DATE,Absolute or relative dates or periods
+Trump,ORG,"Companies, agencies, institutions, etc."
+the Oversight Board,ORG,"Companies, agencies, institutions, etc."
+October,DATE,Absolute or relative dates or periods
+each year,DATE,Absolute or relative dates or periods
+$130 million,MONEY,"Monetary values, including unit"
+20,CARDINAL,Numerals that do not fall under another type
+Nobel Peace,WORK_OF_ART,"Titles of books, songs, etc."
+Yemen,GPE,"Countries, cities, states"
+Cato Institute,ORG,"Companies, agencies, institutions, etc."
+Denmark,GPE,"Countries, cities, states"
+NPR,ORG,"Companies, agencies, institutions, etc."

@@ -1,0 +1,44 @@
+entities,labels,Explaination
+Exxon,ORG,"Companies, agencies, institutions, etc."
+Charlotte,GPE,"Countries, cities, states"
+N.C.,GPE,"Countries, cities, states"
+two,CARDINAL,Numerals that do not fall under another type
+ExxonMobil,ORG,"Companies, agencies, institutions, etc."
+Wednesday,DATE,Absolute or relative dates or periods
+ExxonMobil,ORG,"Companies, agencies, institutions, etc."
+at least two,CARDINAL,Numerals that do not fall under another type
+Exxon,ORG,"Companies, agencies, institutions, etc."
+two,CARDINAL,Numerals that do not fall under another type
+decades,DATE,Absolute or relative dates or periods
+ExxonMobil,ORG,"Companies, agencies, institutions, etc."
+Exxon,ORG,"Companies, agencies, institutions, etc."
+Engine,ORG,"Companies, agencies, institutions, etc."
+1,CARDINAL,Numerals that do not fall under another type
+just last year,DATE,Absolute or relative dates or periods
+Exxon,ORG,"Companies, agencies, institutions, etc."
+Exxon,ORG,"Companies, agencies, institutions, etc."
+the years,DATE,Absolute or relative dates or periods
+European,NORP,Nationalities or religious or political groups
+zero,CARDINAL,Numerals that do not fall under another type
+Exxon,ORG,"Companies, agencies, institutions, etc."
+the International Energy Agency,ORG,"Companies, agencies, institutions, etc."
+Exxon,ORG,"Companies, agencies, institutions, etc."
+two,CARDINAL,Numerals that do not fall under another type
+1,CARDINAL,Numerals that do not fall under another type
+Exxon,ORG,"Companies, agencies, institutions, etc."
+just 0.02%,PERCENT,"Percentage, including ""%"""
+months,DATE,Absolute or relative dates or periods
+California,GPE,"Countries, cities, states"
+Exxon,ORG,"Companies, agencies, institutions, etc."
+Aeisha Mastagni,PERSON,"People, including fictional"
+CalSTRS,ORG,"Companies, agencies, institutions, etc."
+Glass Lewis,PERSON,"People, including fictional"
+Engine,PERSON,"People, including fictional"
+1,CARDINAL,Numerals that do not fall under another type
+Exxon,ORG,"Companies, agencies, institutions, etc."
+Wednesday,DATE,Absolute or relative dates or periods
+three,CARDINAL,Numerals that do not fall under another type
+Blackrock,GPE,"Countries, cities, states"
+Vanguard,ORG,"Companies, agencies, institutions, etc."
+State Street Global Advisors,ORG,"Companies, agencies, institutions, etc."
+three,CARDINAL,Numerals that do not fall under another type

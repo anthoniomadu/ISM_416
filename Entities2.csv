@@ -1,0 +1,62 @@
+entities,labels,Explaination
+Santa Monica,GPE,"Countries, cities, states"
+May,DATE,Absolute or relative dates or periods
+last night's,TIME,Times smaller than a day
+early this morning,TIME,Times smaller than a day
+🌕,DATE,Absolute or relative dates or periods
+first,ORDINAL,"""first"", ""second"", etc."
+nearly 2 1/2 years,DATE,Absolute or relative dates or periods
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+around 7%,PERCENT,"Percentage, including ""%"""
+Wednesday,DATE,Absolute or relative dates or periods
+Sanur,ORG,"Companies, agencies, institutions, etc."
+Indonesia,GPE,"Countries, cities, states"
+Bali,GPE,"Countries, cities, states"
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the Pacific Ocean,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+U.S.,GPE,"Countries, cities, states"
+Mexico,GPE,"Countries, cities, states"
+New Zealand,GPE,"Countries, cities, states"
+Australia,GPE,"Countries, cities, states"
+Hawaii,GPE,"Countries, cities, states"
+Pacific,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+the past 10 years,DATE,Absolute or relative dates or periods
+10,CARDINAL,Numerals that do not fall under another type
+Wednesday,DATE,Absolute or relative dates or periods
+Brasilia,GPE,"Countries, cities, states"
+Brazil,GPE,"Countries, cities, states"
+around 15 minutes,TIME,Times smaller than a day
+one,CARDINAL,Numerals that do not fall under another type
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+NASA.A,ORG,"Companies, agencies, institutions, etc."
+Wednesday,DATE,Absolute or relative dates or periods
+Manly Beach,GPE,"Countries, cities, states"
+Sydney,GPE,"Countries, cities, states"
+Earth,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+Victoria Harbour,FAC,"Buildings, airports, highways, bridges, etc."
+Hong Kong,GPE,"Countries, cities, states"
+Wednesday,DATE,Absolute or relative dates or periods
+May,DATE,Absolute or relative dates or periods
+The Old Farmer's Almanac,ORG,"Companies, agencies, institutions, etc."
+May,DATE,Absolute or relative dates or periods
+Native American,NORP,Nationalities or religious or political groups
+Colonial American,NORP,Nationalities or religious or political groups
+European,NORP,Nationalities or religious or political groups
+Wednesday,DATE,Absolute or relative dates or periods
+the Central TV Tower,ORG,"Companies, agencies, institutions, etc."
+Beijing,GPE,"Countries, cities, states"
+about a year from now,DATE,Absolute or relative dates or periods
+the night of Nov. 18 to 19,TIME,Times smaller than a day
+Diana Hannikainen,PERSON,"People, including fictional"
+Sky & Telescope,ORG,"Companies, agencies, institutions, etc."
+Ferris,PERSON,"People, including fictional"
+Santa Monica Beach,GPE,"Countries, cities, states"
+Wednesday,DATE,Absolute or relative dates or periods
+Santa Monica,GPE,"Countries, cities, states"
+Calif.,GPE,"Countries, cities, states"
+first,ORDINAL,"""first"", ""second"", etc."
+more than two years,DATE,Absolute or relative dates or periods
+November,DATE,Absolute or relative dates or periods
